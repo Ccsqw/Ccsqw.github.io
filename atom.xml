@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ccsqw.github.io</id>
     <title>Gridea</title>
-    <updated>2024-06-21T08:39:53.989Z</updated>
+    <updated>2024-07-15T04:44:53.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ccsqw.github.io"/>
     <link rel="self" href="https://Ccsqw.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://Ccsqw.github.io/images/avatar.png</logo>
     <icon>https://Ccsqw.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[精彩语句]]></title>
+        <id>https://Ccsqw.github.io/post/jing-cai-yu-ju/</id>
+        <link href="https://Ccsqw.github.io/post/jing-cai-yu-ju/">
+        </link>
+        <updated>2024-07-15T04:40:23.000Z</updated>
+        <content type="html"><![CDATA[<p>One reason Owlestone's device has generated such interest <strong>is that</strong> it has a documented record</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NoteBook]]></title>
+        <id>https://Ccsqw.github.io/post/notebook/</id>
+        <link href="https://Ccsqw.github.io/post/notebook/">
+        </link>
+        <updated>2024-06-25T15:25:51.000Z</updated>
+        <content type="html"><![CDATA[<p>wineb de</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The long road back]]></title>
         <id>https://Ccsqw.github.io/post/the-long-road-back/</id>
