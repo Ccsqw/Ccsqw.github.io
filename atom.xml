@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ccsqw.github.io</id>
     <title>Gridea</title>
-    <updated>2024-09-03T00:46:03.576Z</updated>
+    <updated>2024-09-07T11:24:02.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ccsqw.github.io"/>
     <link rel="self" href="https://Ccsqw.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://Ccsqw.github.io/images/avatar.png</logo>
     <icon>https://Ccsqw.github.io/favicon.ico</icon>
     <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[一些笔记]]></title>
+        <id>https://Ccsqw.github.io/post/yi-xie-bi-ji/</id>
+        <link href="https://Ccsqw.github.io/post/yi-xie-bi-ji/">
+        </link>
+        <updated>2024-09-07T11:21:23.000Z</updated>
+        <content type="html"><![CDATA[<p>I went to your school yesterday<br>
+So did  i = i also went to your school yesterday<br>
+放在句首，倒装</p>
+<p>句子,for  做连词</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精彩语句]]></title>
         <id>https://Ccsqw.github.io/post/jing-cai-yu-ju/</id>
@@ -22,6 +34,12 @@
 <p>it is a well -studied species ,and among the facts that have emerged  about it is that individual birds do ,indeed , have distict personanlites</p>
 <p>But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves ,humanity is in the process of losing something significant<br>
 .As they become more and more predictable ,the creature inhabiting the increasingly AI-mediated world will become less and less like us .</p>
+<p>Containers may came loose in heavy whether and there is a chance of lighting knocking out communication.</p>
+<p>They demonstrate that lighting strikes the Indian Ocean and the South China sea almost twice as often along shipping lanes as it does other areas of these waters .</p>
+<p>As the map shows , those strikes that happened over the ocean were concentrated in places most plied by ships .In particular ,the shipping lane that passes from the south of Sri Lanka to the northern entrance of the straits of Malacca , and thence down the straits to Singapore,positively glows with lighting .(Its westward extension to the Suez canal was outside the study area .)So do the lanes from Singapore an the western part of Malaysia that head north-east across the South China Sea (倒装)</p>
+<p>Neither changes in vertical wind shear nor differences in horizontal air movements seem likely to be causing this concentration of thunderstorms ,for other measurements suggest that these weather-modifying phenomena are the same inside shipping lanes as they are in neighbouring parts of the atmosphere immediately outside those lanes .Nor does it seem plausible that the ships themselves (admittedly made of metal ,and also the tallest structures on what is otherwise a flat surface )are responsible for attracting all the extra strikes involved .</p>
+<p>The most likely explanation is particulate pollution emitted by ships using the shipping lanes</p>
+<p>Typical marine clouds in unpolluted areas are composed of large droplets and do not rise to high altitude,but Dr Thornton and his team reckon that smaller droplets ,of sort that condense around oxides of sulphur,might more easily be carried upward by convection -forming,as they rose ,into towering storm clouds that would act as nurseries of lighting bolts</p>
 ]]></content>
     </entry>
     <entry>
